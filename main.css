@@ -1,0 +1,59 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	background-color: #92BA84;
+	height: 540px;
+	width: 1000px;
+	padding: 25px;
+	position: static;
+	margin: 70px auto;
+}
+.cuadradito{
+	width: 100%;
+	height: 100%;
+	border: 2px solid #FFFFFF;
+	position: relative;
+}
+.arco{
+	width: 130px;
+	height: 200px;
+	top: 170px;
+	position: absolute;
+}
+.uno{
+	border-top: 2px solid white;
+	border-right: 2px solid white;
+	border-bottom: 2px solid white;
+}
+.dos{
+	left: 870px;
+	border-left: 2px solid white;
+	border-top:2px solid white;
+	border-bottom: 2px solid white;
+}
+.circulo{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	border:2px solid white;
+	position: absolute;
+	top:170px;
+	left: 400px;
+}
+.bola{
+	position: relative;
+}
+.one{
+	top: 175px;
+	left:120px;
+}
+.two{
+	top:90px;
+	left: 500px;
+}
+.three{
+	top:335px;
+	left: 785px;
+}
